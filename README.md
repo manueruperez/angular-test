@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlatzyStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-test
+just another test
+>>>>>>> 89267aa5a65e6ce9bb783bb453f20c2d2ea0df10
